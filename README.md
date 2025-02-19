@@ -4,4 +4,4 @@ This repo's `aws` package was [copied](https://github.com/sigstore/sigstore/tree
 
 The main addition is `main.go` to run as a separate program, and tests are in [.github/workflows/test.yml](.github/workflows/test.yml)
 
-Pending official releases of sigstore and cosign, use in cosign requires a [special build](https://github.com/sigstore/cosign/compare/main...ramonpetgrave64:cosign:cliplugin-no-builtin-aws).
+~~Pending official releases of sigstore and cosign, use in cosign requires a [special build](https://github.com/sigstore/cosign/compare/main...ramonpetgrave64:cosign:cliplugin-no-builtin-aws).~~
